@@ -1,5 +1,12 @@
 # node-data-transform
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/LoginRadius/node-json-transform/pulls) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LoginRadius/node-json-transform)
+[![GitHub issues](https://img.shields.io/github/issues-raw/LoginRadius/node-json-transform?logo=github)](https://github.com/LoginRadius/node-json-transform/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/LoginRadius/node-json-transform?logo=git)](https://github.com/LoginRadius/node-json-transform/pulls)
+[![Twitter__follow](https://img.shields.io/twitter/follow/LoginRadius?style=social)](https://twitter.com/LoginRadius)
+[![Youtube](https://img.shields.io/badge/youtube-channel-red)](https://www.youtube.com/user/LoginRadius)
+
 A node module for transforming and performing operations on JSON.
 
 ## Installation
