@@ -1,8 +1,16 @@
 # node-data-transform
 
-##Usage
+A node module for transforming and performing operations on JSON.
 
-###Basic Example
+## Installation
+
+```javascript
+npm install node-json-transform --save
+```
+
+## Usage
+
+### Basic Example
 
 ```javascript
 var DataTransform = require("node-json-transform").DataTransform,
@@ -99,7 +107,7 @@ The expected output.
 ```
 
 
-###Advanced Example
+### Advanced Example
 
 ```
 var map = {
@@ -195,7 +203,7 @@ The expected output.
 ]
 ```
 
-###Multi-template Example
+### Multi-template Example
 
 ```
 var data = {
@@ -272,7 +280,7 @@ The expected output.
 # Static value
 if you want to add static value in map, $$ as prefix of key
 
-##example 
+
 ### map
     var map = {
         list : 'profiles',
